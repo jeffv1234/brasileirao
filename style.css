@@ -1,0 +1,26 @@
+    body {
+        color: blue;
+        background-color: black;
+        margin: 0px;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-bottom: 100px;
+    }
+
+    header {
+        border-bottom: solid 2px blue;
+        padding: 20px;
+        font-size: 30px;
+        color: black;
+    }
+
+    .chamada {
+        background: blue;
+        padding-bottom: 80px;
+        padding-top: 80px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .chamada-texto {
+        
+    }
